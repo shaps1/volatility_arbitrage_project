@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+keras
+torch
+tensorflow
+arch
+beautifulsoup4
+scrapy
+matplotlib
+seaborn
+pytest
